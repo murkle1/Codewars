@@ -3,5 +3,5 @@ function isDivideBy(number, a, b) {
       return true
     }else{
       return false
-      }
+     }
     }
