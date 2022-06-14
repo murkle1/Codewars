@@ -5,7 +5,7 @@ function oddOrEven(arr) {
     //10
     // modulus the sum 
     let mod = sum % 2
-    //if modulous = 0 then 'even' else 'odd' 
+    //if modulous = 0 then 'even' else "odd"
     if(mod == 0){
       return('even')
     }else{
